@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "MainViewController.scrollViewDidScroll(_:):MainViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "headerViewHeight.constant">
+            </PersistentString>
+            <PersistentString
+               value = "minHeaderHeight">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in HomeViewController.retriveUserData():HomeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.nombreProfile.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "HomeViewController.tableView(_:cellForRowAt:):HomeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+            <PersistentString
+               value = "self.currentlyPlayingIndexPathRow">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MainViewController.canAnimateHeader(_:):MainViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "scrollView.contentSize.height ">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SplashScreenViewController.retriveData():SplashScreenViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "hasDataUser">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "HomeViewController.retriveUserData():HomeViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "modelUser">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ItemListaViewCell.loadData(grabacion:index:):ItemListaViewCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "UserDefaultsHelper.getData(type: [Int].self, forKey: .arrayPositionLikes)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

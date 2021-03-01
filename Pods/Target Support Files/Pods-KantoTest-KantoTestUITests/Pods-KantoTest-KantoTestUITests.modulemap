@@ -1,0 +1,6 @@
+framework module Pods_KantoTest_KantoTestUITests {
+  umbrella header "Pods-KantoTest-KantoTestUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
